@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Test/static/css/main.360fb571.css",
+    "main.js": "/Test/static/js/main.51841582.js",
+    "static/js/453.ce48bda9.chunk.js": "/Test/static/js/453.ce48bda9.chunk.js",
+    "static/media/CheeseSamosa.jpg": "/Test/static/media/CheeseSamosa.17b8f6f8617cf118a488.jpg",
+    "static/media/PaneerSamosa.jpg": "/Test/static/media/PaneerSamosa.382cfbdbe899a774e9ed.jpg",
+    "static/media/ChocolateSamosa.jpg": "/Test/static/media/ChocolateSamosa.9d2d3ad9ea0ac7ad5176.jpg",
+    "static/media/Chef.jpg": "/Test/static/media/Chef.e942f8bd8c96f1c8ffb9.jpg",
+    "static/media/KhoyaSamosa.jpg": "/Test/static/media/KhoyaSamosa.2c130e826c735fa2c75f.jpg",
+    "static/media/Samosaa.jpg": "/Test/static/media/Samosaa.f43c746702af80bfeb20.jpg",
+    "static/media/MushroomSamosa.jpg": "/Test/static/media/MushroomSamosa.820bea40454eeb0f4674.jpg",
+    "static/media/KeemaSamosa-1.jpg": "/Test/static/media/KeemaSamosa-1.9f8865c9b1febf6f862f.jpg",
+    "index.html": "/Test/index.html",
+    "main.360fb571.css.map": "/Test/static/css/main.360fb571.css.map",
+    "main.51841582.js.map": "/Test/static/js/main.51841582.js.map",
+    "453.ce48bda9.chunk.js.map": "/Test/static/js/453.ce48bda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360fb571.css",
+    "static/js/main.51841582.js"
+  ]
+}
